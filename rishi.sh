@@ -2,3 +2,4 @@
 
 mkdir khajana
 touch bajana
+ls -l
