@@ -1,5 +1,5 @@
 !#/bin/bash
 
-mkdir khajana
-touch bajana
+mkdir khajana &> /dev/null
+touch bajana &> /dev/null
 ls -l
